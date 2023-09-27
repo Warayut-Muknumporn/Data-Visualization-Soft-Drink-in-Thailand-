@@ -1,8 +1,4 @@
-![5](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/6aa10ad2-b348-49d2-85b1-38bd9532afa8)
-![4](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/e6d300ad-9d1b-45d6-b825-64bb3f68e151)
-![3](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/eb81fc82-2c6a-4e8a-9283-6a1257863291)
-![2](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/54157e40-0cac-4788-b2fb-d1815b8d6d9f)
-![1](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/8fc87894-b052-4154-ad14-3d97a6ff4dfc)
+
 # Data-Visualization-Soft-Drink-in-Thailand-
 This is data visualization of Soft drink in Thailand by using Tableau
 
@@ -35,3 +31,9 @@ For this dataset, There are several types of hot drinks. This includes estimatin
   b) Soft Drinks:
 For this dataset, There are several types of hot drinks. This includes estimating the volume and value of this type of market each year. For the purpose of cleaning this data, To get the market share of non-alcoholic beverages, aggregate data were taken from market share action with soft drinks. For this batch of data, It has been accorded the highest priority. In this data collection, soft drinks are classified into eight categories, with each category broken into three sub-categories. Each year, to observe the variances and gain access to significant aspects affecting each product's trend, as well as transaction statistics. Getting this data set ready To see the market trends each year, the data is divided down into each product category. It separates the categories of trading into Retail(on-trade) and food service (off-trade), for example, to examine the impact of COVID-19 for discovering product type trends by calculating growth rate per year. It has delved into the many sorts of beverages in order to identify market trends and discover healthy drinks. Analyse the data to spot patterns. Analyse to see trends in addition to exploring the type of low-sugar or no-sugar beverages to find out the impact of the 2017 sugar tax increase law in Thailand.
 For all of the dataset types. They all group together by using Years. to compare and see the differences of each type of data
+
+![5](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/6aa10ad2-b348-49d2-85b1-38bd9532afa8)
+![4](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/e6d300ad-9d1b-45d6-b825-64bb3f68e151)
+![3](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/eb81fc82-2c6a-4e8a-9283-6a1257863291)
+![2](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/54157e40-0cac-4788-b2fb-d1815b8d6d9f)
+![1](https://github.com/Warayut-Muknumporn/Data-Visualization-Soft-Drink-in-Thailand-/assets/116235617/8fc87894-b052-4154-ad14-3d97a6ff4dfc)
